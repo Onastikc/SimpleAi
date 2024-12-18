@@ -21,8 +21,6 @@ class Node {
 
 /**
  * A star Search method
- *
- * @author Albert M
  */
 public final class AStar extends Node {
 
