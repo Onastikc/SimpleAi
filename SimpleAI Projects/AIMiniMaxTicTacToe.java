@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * Node class for each state of the tic tac toe board.
  *
- * @author Albert Maah
+ * @author Albert M
  *
  */
 class Node {
@@ -18,11 +18,6 @@ class Node {
     int movesLeft;
 }
 
-/**
- * Simple HelloWorld program (clear of Checkstyle and FindBugs warnings).
- *
- * @author Albert Maah
- */
 public final class AIMiniMaxTicTacToe extends Node {
 
     /**
