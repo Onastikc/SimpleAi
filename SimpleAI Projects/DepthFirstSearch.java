@@ -3,9 +3,6 @@ import java.util.Stack;
 
 /**
  * Node Subclass
- *
- * @author Albert Maah
- *
  */
 class Node {
     public enum Actions {
@@ -23,8 +20,6 @@ class Node {
 
 /**
  * Depth First Search of an 8 puzzle.
- * 
- * @author Albert Maah
  */
 public final class DepthFirstSearch extends Node {
 
