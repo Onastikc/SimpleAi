@@ -2,9 +2,6 @@ import java.util.Stack;
 
 /**
  * Node class for each state of the tic tac toe board.
- *
- * @author Albert M
- *
  */
 class Node {
     public enum Turn {
