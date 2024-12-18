@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * Node class for each state of the tic tac toe board.
  *
- * @author Albert Maah
+ * @author Albert M
  *
  */
 class Node {
@@ -26,7 +26,7 @@ class Node {
 /**
  * H MiniMax on a TicTacToe board
  *
- * @author Albert Maah
+ * @author Albert M
  */
 public final class AIHMiniMaxTicTacToe extends Node {
 
