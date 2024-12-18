@@ -4,9 +4,6 @@ import java.util.Stack;
 
 /**
  * Node Subclass
- *
- * @author Albert Maah
- *
  */
 class Node {
     public enum Actions {
@@ -25,7 +22,7 @@ class Node {
 /**
  * A star Search method
  *
- * @author Albert Maah
+ * @author Albert M
  */
 public final class AStar extends Node {
 
