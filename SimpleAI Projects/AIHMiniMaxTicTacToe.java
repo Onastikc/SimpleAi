@@ -2,9 +2,6 @@ import java.util.Stack;
 
 /**
  * Node class for each state of the tic tac toe board.
- *
- * @author Albert M
- *
  */
 class Node {
     public enum Turn {
@@ -25,8 +22,6 @@ class Node {
 
 /**
  * H MiniMax on a TicTacToe board
- *
- * @author Albert M
  */
 public final class AIHMiniMaxTicTacToe extends Node {
 
